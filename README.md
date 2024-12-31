@@ -1,0 +1,1 @@
+This is my computational project for an E&M course. I simulated the time and space-varying electric and magnetic fields emitted by synchrotron. See the jupyter notebook and Synchrotron_Radiation.pdf for more details.
